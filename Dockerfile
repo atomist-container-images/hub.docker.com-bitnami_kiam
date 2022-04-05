@@ -1,12 +1,27 @@
-# Tags: latest, 4.2.0-debian-10-r139, 4.2.0, 4-debian-10, 4
+# Tags: latest, 4.2.0-debian-10-r144, 4.2.0, 4-debian-10, 4
 FROM bitnami/kiam:latest
-FROM bitnami/kiam:4.2.0-debian-10-r139
+FROM bitnami/kiam:4.2.0-debian-10-r144
 FROM bitnami/kiam:4.2.0
 FROM bitnami/kiam:4-debian-10
 FROM bitnami/kiam:4
 
 # Tags: _
 FROM bitnami/kiam:_
+
+# Tags: 4.2.0-debian-10-r143
+FROM bitnami/kiam:4.2.0-debian-10-r143
+
+# Tags: 4.2.0-debian-10-r142
+FROM bitnami/kiam:4.2.0-debian-10-r142
+
+# Tags: 4.2.0-debian-10-r141
+FROM bitnami/kiam:4.2.0-debian-10-r141
+
+# Tags: 4.2.0-debian-10-r140
+FROM bitnami/kiam:4.2.0-debian-10-r140
+
+# Tags: 4.2.0-debian-10-r139
+FROM bitnami/kiam:4.2.0-debian-10-r139
 
 # Tags: 4.2.0-debian-10-r138
 FROM bitnami/kiam:4.2.0-debian-10-r138
@@ -124,36 +139,3 @@ FROM bitnami/kiam:4.2.0-debian-10-r114
 
 # Tags: 3.6.0-debian-10-r463
 FROM bitnami/kiam:3.6.0-debian-10-r463
-
-# Tags: 4.2.0-debian-10-r113
-FROM bitnami/kiam:4.2.0-debian-10-r113
-
-# Tags: 3.6.0-debian-10-r462
-FROM bitnami/kiam:3.6.0-debian-10-r462
-
-# Tags: 4.2.0-debian-10-r112
-FROM bitnami/kiam:4.2.0-debian-10-r112
-
-# Tags: 3.6.0-debian-10-r461
-FROM bitnami/kiam:3.6.0-debian-10-r461
-
-# Tags: 4.2.0-debian-10-r111
-FROM bitnami/kiam:4.2.0-debian-10-r111
-
-# Tags: 3.6.0-debian-10-r460
-FROM bitnami/kiam:3.6.0-debian-10-r460
-
-# Tags: 4.2.0-debian-10-r110
-FROM bitnami/kiam:4.2.0-debian-10-r110
-
-# Tags: 4.2.0-debian-10-r108
-FROM bitnami/kiam:4.2.0-debian-10-r108
-
-# Tags: 3.6.0-debian-10-r459
-FROM bitnami/kiam:3.6.0-debian-10-r459
-
-# Tags: 4.2.0-debian-10-r107
-FROM bitnami/kiam:4.2.0-debian-10-r107
-
-# Tags: 3.6.0-debian-10-r458
-FROM bitnami/kiam:3.6.0-debian-10-r458
